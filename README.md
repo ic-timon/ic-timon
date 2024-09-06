@@ -4,8 +4,8 @@ I am the Team Leader of the iCampus team, primarily responsible for overseeing t
 
 I am steadily progressing on the path of becoming a full-stack developer and advancing alongside our team.
 
-🤔 Education: GDUT(2012-2016) 
-- Water Supply and Drainage Science and Engineering
+🤔 Education: GDUT(****-****) 
+- ******
 
 Since I started working in 2016, I have been engaged in system development.
 Will, My major is not closely related to my current job.
@@ -36,5 +36,8 @@ Will, My major is not closely related to my current job.
 - Java (JustRead) -> Kotlin
 - Js/Vue
 
-
+Other：
+- Python tutor
+(Although I'm not fully proficient in Python, surprisingly, there are people who want to learn from me.
+The younger son of a congressman has approached me, and so has my own brother. LOL)
 
