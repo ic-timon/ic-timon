@@ -1,10 +1,10 @@
 ## Hello, This is Timon
 
-I am the Team Leader of the iCampus team, primarily responsible for overseeing the development of several projects involving the backend and Android platforms within the iCampus system. Additionally, I engage in research and development work commissioned by others, some of which cannot be revealed. 
+I am the project leader of the iCampus, primarily responsible for overseeing the development of several projects involving the backend and Android platforms within the iCampus system. Additionally, I engage in research and development work commissioned by other clients, some of which cannot be disclosed. 
 
-I am steadily progressing on the path of becoming a full-stack developer and advancing alongside our team.
+I am steadily progressing in becoming a full-stack developer and advancing alongside our team.
 
-🤔 Education: GDUT(****-****) 
+🤔 Education: GDUT(-) 
 - ******
 
 Since I started working in 2016, I have been engaged in system development.
@@ -39,5 +39,5 @@ Will, My major is not closely related to my current job.
 Other：
 - Python tutor
 (Although I'm not fully proficient in Python, surprisingly, there are people who want to learn from me.
-The younger son of a congressman has approached me, and so has my own brother. LOL)
+The younger son of a congressman has approached me, and so has my brother. why not golang or kt?. LOL)
 
