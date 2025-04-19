@@ -1,6 +1,7 @@
 ## Hello, This is Timon
 
-I am the project leader of the iCampus, primarily responsible for overseeing the development of several projects involving the backend and Android platforms within the iCampus system. Additionally, I engage in research and development work commissioned by other clients, some of which cannot be disclosed. 
+I used to be the project development leader for iCampus, and now I am the project development leader for （🎵）Dein Music.
+
 
 I am steadily progressing in becoming a full-stack developer and advancing alongside our team.
 
@@ -8,7 +9,7 @@ I am steadily progressing in becoming a full-stack developer and advancing along
 - ******
 
 Since I started working in 2016, I have been engaged in system development.
-Will, My major is not closely related to my current job.
+Indeed, my major is not closely related to my current job.
 
 🔭 Work On:
 - Android
@@ -20,7 +21,7 @@ Will, My major is not closely related to my current job.
   - icampus cloud (under wraps)
 - front
   - ICRC **** system (under wraps)
-- manager
+- project development leader
   - iCampus System (under wraps)
   - Ministry of Environment **** System (under wraps)
 
