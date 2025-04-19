@@ -41,3 +41,5 @@ Other：
 - Python tutor
 (Although I'm not fully proficient in Python, surprisingly, there are people who want to learn from me. LOL)
 
+![Timon's github stats](https://github-readme-stats.vercel.app/api?username=ic-timon&show_icons=true&theme=merko)
+
