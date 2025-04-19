@@ -39,6 +39,5 @@ Indeed, my major is not closely related to my current job.
 
 Other：
 - Python tutor
-(Although I'm not fully proficient in Python, surprisingly, there are people who want to learn from me.
-The younger son of a congressman has approached me, and so has my brother. why not golang or kt?. LOL)
+(Although I'm not fully proficient in Python, surprisingly, there are people who want to learn from me. LOL)
 
