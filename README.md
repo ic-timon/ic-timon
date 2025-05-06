@@ -1,4 +1,4 @@
-## Hello, This is Timon
+![图片](https://github.com/user-attachments/assets/ef633490-5a64-4191-a85c-0a2103ec436b)## Hello, This is Timon
 
 I used to be the project development leader for iCampus, and now I am the project development leader for （🎵）Dein Music.
 
@@ -17,13 +17,16 @@ Indeed, my major is not closely related to my current job.
   - icampus board (under wraps)
   - icampus consumer (under wraps)
   - icampus client (under wraps)
+  - Dein Client
 - backend
   - icampus cloud (under wraps)
+  - System Architecture Design (one of)
 - front
   - ICRC **** system (under wraps)
 - project development leader
   - iCampus System (under wraps)
   - Ministry of Environment **** System (under wraps)
+  - Dein Music
 
 
 🌱 Learning：
