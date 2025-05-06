@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/ef633490-5a64-4191-a85c-0a2103ec436b)## Hello, This is Timon
+## Hello, This is Timon
 
 I used to be the project development leader for iCampus, and now I am the project development leader for （🎵）Dein Music.
 
