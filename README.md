@@ -16,7 +16,7 @@ Indeed, my major is not closely related to my current job.
   - yinian (under wraps)
   - icampus board (under wraps)
   - icampus consumer (under wraps)
-  - icampus cliend (under wraps)
+  - icampus client (under wraps)
 - backend
   - icampus cloud (under wraps)
 - front
