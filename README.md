@@ -37,7 +37,7 @@ I'm a **Full-Stack Developer** and **CTO** with extensive experience in system d
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Backend & Tools
+### Mobile
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
@@ -153,7 +153,7 @@ I'm a **Full-Stack Developer** and **CTO** with extensive experience in system d
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 后端与工具
+### 移动端
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
@@ -197,7 +197,7 @@ I'm a **Full-Stack Developer** and **CTO** with extensive experience in system d
 | C/C++ | 高级 | ✅ 活跃使用 |
 | Golang | 高级 | ✅ 活跃使用 |
 | Kotlin | 高级 | ✅ 活跃使用 |
-| Java | 中级 | 📖 仅阅读 |
+| Java | 中级 | 📖 仅阅读 AntiJava人 不写Java|
 | JavaScript/Vue/React | 高级 | ✅ 活跃使用 |
 | Python | 高级 | 👨‍🏫 教学 |
 
